@@ -1,1 +1,1 @@
-# Chatting-App
+# react-firebase-chat
